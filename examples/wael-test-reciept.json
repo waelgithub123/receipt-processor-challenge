@@ -1,0 +1,9 @@
+{
+    "retailer": "thisIsAtestValue",
+    "purchaseDate": "2024-04-07",
+    "purchaseTime": "23:17",
+    "total": "7.25",
+    "items": [
+        {"shortDescription": "Pepsi - 17-oz", "price": "3.50w"}
+    ]
+}
